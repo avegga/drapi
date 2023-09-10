@@ -1,2 +1,2 @@
 # drapi
-djavgo rest api
+django rest api
